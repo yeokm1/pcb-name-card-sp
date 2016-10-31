@@ -1,0 +1,11 @@
+BEGIN:VCARD
+N:Yeo;Kheng Meng
+EMAIL:yeokhengmeng@singaporepower.com.sg
+EMAIL:yeokm1@gmail.com
+ORG:Singapore Power Ltd
+TEL;CELL:+65 97390391
+TITLE:Software Engineer
+URL;WORK:http://www.singaporepower.com.sg
+URL:http://yeokhengmeng.com
+URL:https://www.linkedin.com/in/yeokhengmeng
+END:VCARD
