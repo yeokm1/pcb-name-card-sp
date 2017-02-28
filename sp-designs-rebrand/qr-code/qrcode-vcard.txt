@@ -5,7 +5,7 @@ EMAIL:yeokm1@gmail.com
 ORG:SP Group Ltd
 TEL;CELL:+65 97390391
 TITLE:IoT Engineer
-URL;WORK:http://spgroup.com.sg
+URL;WORK:https://www.spgroup.com.sg
 URL:http://yeokhengmeng.com
 URL:https://www.linkedin.com/in/yeokhengmeng
 END:VCARD
