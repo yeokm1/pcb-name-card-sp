@@ -1,10 +1,12 @@
 BEGIN:VCARD
+VERSION:3.0
 N:Yeo;Kheng Meng
-EMAIL:yeokhengmeng@spgroup.com.sg
-EMAIL:yeokm1@gmail.com
-ORG:SP Group Ltd
-TEL;CELL:+65 97390391
 TITLE:IoT Engineer
+ORG:SP Group
+EMAIL;type=INTERNET;type=WORK;:yeokhengmeng@spgroup.com.sg
+EMAIL;type=INTERNET;type=PERSONAL;:yeokm1@gmail.com
+TEL;TYPE=WORK,VOICE:+65 69196184
+TEL;TYPE=CELL,VOICE:+65 97390391
 URL;WORK:https://www.spgroup.com.sg
 URL:http://yeokhengmeng.com
 URL:https://www.linkedin.com/in/yeokhengmeng
