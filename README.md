@@ -42,7 +42,7 @@ PCB fabrication is currently done by [Elecrow (10-pieces-link)](http://www.elecr
 8. Lead time : Shipped in 4 to 7 days (NA for 50 pieces)
 9. Panelizing : Single PCB with milling
 
-#References
+# References
 1. [How to design a 13.56 MHz
 customized tag antenna](http://www.st.com/st-web-ui/static/active/jp/resource/technical/document/application_note/CD00221490.pdf)
 2. [The impact of high pulse drain on CR2032 coin-cell battery capacity](http://m.eet.com/media/1121454/c0924post.pdf)
