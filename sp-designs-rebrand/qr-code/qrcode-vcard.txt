@@ -2,7 +2,7 @@ BEGIN:VCARD
 VERSION:3.0
 N:Yeo;Kheng Meng
 TITLE:Senior IoT Engineer II
-ORG:SP Group
+ORG:SP Digital
 EMAIL;type=INTERNET;type=WORK;:yeokhengmeng@spgroup.com.sg
 EMAIL;type=INTERNET;type=PERSONAL;:yeokm1@gmail.com
 TEL;TYPE=WORK,VOICE:+65 69196184
