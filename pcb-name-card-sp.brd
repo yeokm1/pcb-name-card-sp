@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.1.2">
+<eagle version="9.1.3">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
 <setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.027" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.1" altunitdist="mm" altunit="mm"/>
+<grid distance="1" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.1" altunitdist="mm" altunit="mm"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -157,11 +157,11 @@
 <wire x1="64.029878125" y1="78.57536875" x2="64.029878125" y2="28.40379375" width="0" layer="20"/>
 <wire x1="64.029878125" y1="28.40379375" x2="65.444090625" y2="26.98958125" width="0" layer="20" curve="90"/>
 <text x="70" y="67" size="4.064" layer="21" font="vector" ratio="14">YEO KHENG MENG</text>
-<text x="70" y="59" size="1.8" layer="21" font="vector" ratio="14">Senior IoT Engineer II</text>
-<text x="70.121" y="50.228" size="1.6" layer="21" font="vector" ratio="14">+65 6916 6184 (Direct)
+<text x="70" y="59" size="2" layer="21" font="vector" ratio="17">Senior IoT Engineer II</text>
+<text x="70.121" y="50.228" size="1.7" layer="21" font="vector" ratio="17">+65 6916 6184 (Direct)
 +65 9739 0391 (Personal)
 yeokhengmeng@spgroup.com.sg</text>
-<text x="127.239878125" y="33.04958125" size="1.016" layer="22" font="vector" ratio="14" rot="MR0">Rev 6</text>
+<text x="127.239878125" y="33.04958125" size="1.016" layer="22" font="vector" ratio="14" rot="MR0">Rev 7</text>
 <text x="146.029878125" y="76.48958125" size="1.778" layer="22" font="vector" ratio="14" rot="MR0">0</text>
 <text x="136.029878125" y="76.48958125" size="1.778" layer="22" font="vector" ratio="14" rot="MR0">1</text>
 <text x="126.029878125" y="76.48958125" size="1.778" layer="22" font="vector" ratio="14" rot="MR0">2</text>
@@ -175,11 +175,11 @@ yeokhengmeng@spgroup.com.sg</text>
 <text x="121.179878125" y="28.51358125" size="1.778" layer="22" font="vector" ratio="14" rot="MR0">1</text>
 <text x="95.779878125" y="28.51358125" size="1.778" layer="22" font="vector" ratio="14" rot="MR0">2</text>
 <text x="101.029878125" y="33.08958125" size="1.016" layer="22" font="vector" ratio="14" rot="MR0">https://github.com/yeokm1/pcb-name-card-sp</text>
-<text x="108.429878125" y="30.48958125" size="1.27" layer="22" font="vector" ratio="14" rot="MR0">White</text>
+<text x="108.429878125" y="31.48958125" size="1.27" layer="22" font="vector" ratio="14" rot="MR0">White</text>
 <text x="107.429878125" y="72.08958125" size="1.27" layer="22" font="vector" ratio="14" rot="MR0">UV</text>
 <text x="101.029878125" y="34.98958125" size="1.27" layer="22" font="vector" ratio="14" rot="MR0">Hand-assembled by yours truly</text>
 <text x="70.379878125" y="28.51358125" size="1.778" layer="22" font="vector" ratio="14" rot="MR0">3</text>
-<text x="133.00078125" y="66.9584" size="1.778" layer="21" ratio="14">NFC</text>
+<text x="133.00078125" y="66.9584" size="1.778" layer="21" font="vector" ratio="17">NFC</text>
 <wire x1="138.40078125" y1="68.8584" x2="138.40078125" y2="66.8584" width="0.4064" layer="21" curve="-130"/>
 <wire x1="139.00078125" y1="69.8584" x2="138.90078125" y2="65.8584" width="0.4064" layer="21" curve="-130"/>
 <wire x1="139.40078125" y1="70.7584" x2="139.40078125" y2="64.9584" width="0.4064" layer="21" curve="-130"/>
